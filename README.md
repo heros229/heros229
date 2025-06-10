@@ -9,7 +9,7 @@
   <a href="mailto:contact@rimeiro.com"><img src="https://img.shields.io/badge/Email-contact@rimeiro.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/heros-sessinou-web-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Heros_Sessinou-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://rimeiro.com" target="_blank"><img src="https://img.shields.io/badge/Website-RIMEIRO-%231572B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="RIMEIRO Website"></a>
-  <a href="https://wa.me/+2290161878578" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ---
@@ -43,6 +43,7 @@
 
 ### 🌐 Web Development
 - **Custom Web Applications**: Laravel-based solutions tailored to your business needs
+- **WordPress Development**: Custom themes, plugins, and complete WordPress solutions
 - **E-commerce Platforms**: Scalable online stores with payment integrations
 - **Management Systems**: CRM, ERP, and custom business management tools
 - **API Development**: RESTful APIs and third-party integrations
@@ -66,6 +67,7 @@
 ### **Frontend Development**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -87,9 +89,15 @@
 ## 🏆 Why Choose Me?
 
 ### ✅ **Proven Track Record**
-- Successfully delivered 50+ web projects
-- Specialized in complex business applications
-- Experience with government and enterprise clients
+- Successfully delivered 50+ web projects across various industries
+- Specialized in complex business applications and e-commerce solutions
+- Experience with government, enterprise, and SME clients
+
+**Recent Live Projects:**
+- 🏡 **[Marville Le Bois](https://marville-lebois.com/)** - Premium wood construction company website
+- 💰 **[Solutis Credit](http://solutis-credit.com/)** - Financial services and credit solutions platform
+- 🔧 **[A2F Services](https://a2fservices.com/)** - Professional services company website
+- 🌟 **[Moannaa](https://moannaa.com/)** - Warming mat for food platform
 
 ### ✅ **Quality Assurance**
 - Clean, documented, and maintainable code
@@ -109,6 +117,7 @@
 ---
 
 ## 📊 GitHub Analytics
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heros&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
@@ -134,6 +143,9 @@
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=heros&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 <div align="center">
   <h3>⭐ If you find my work interesting, don't forget to star my repositories! ⭐</h3>

@@ -143,9 +143,9 @@
 
 ---
 
-<div align="center">
+<!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=heros&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</div> -->
 
 <div align="center">
   <h3>⭐ If you find my work interesting, don't forget to star my repositories! ⭐</h3>

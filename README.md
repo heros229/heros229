@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Héros Sessinou</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Laravel & PHP Expert | Founder of RIMEIRO</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | Laravel & PHP Expert | AI Automation Specialist | Founder of RIMEIRO</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Laravel+%26+PHP+Expert;Innovative+Digital+Solutions;Clean+%26+Performant+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Laravel+%26+PHP+Expert;AI+Automation+Specialist;Innovative+Digital+Solutions;Clean+%26+Performant+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,16 +16,17 @@
 
 ## 🎯 About Me
 
-**Experienced Full-Stack Web Developer** with a passion for creating robust and scalable digital solutions. With several years of expertise, I transform complex ideas into high-performance web applications that meet the most demanding business requirements.
+**Experienced Full-Stack Web Developer & AI Automation Specialist** with a passion for creating robust, scalable digital solutions and intelligent automation systems. With several years of expertise, I transform complex ideas into high-performance web applications and AI-powered workflows that meet the most demanding business requirements.
 
-**🏢 Founder of RIMEIRO** - A digital agency specializing in custom web application development, helping businesses digitize their processes and boost their online presence.
+**🏢 Founder of RIMEIRO** - A digital agency specializing in custom web application development and AI automation solutions, helping businesses digitize their processes, automate repetitive tasks, and boost their online presence through intelligent systems.
 
 ### 🔥 What Sets Me Apart
 
-- **🎯 Business-Focused Approach**: I don't just code, I solve real business problems
+- **🎯 Business-Focused Approach**: I don't just code, I solve real business problems with web development and AI automation
+- **🤖 AI Integration Expert**: Specialized in building intelligent workflows that automate complex business processes
 - **⚡ Performance Optimization**: Every line of code is written with scalability and speed in mind
 - **🛡️ Security First**: Implementing best practices to protect your data and users
-- **📱 Modern Technologies**: Always staying updated with the latest web development trends
+- **📱 Modern Technologies**: Always staying updated with the latest web development and AI trends
 - **🤝 Client Partnership**: Working closely with clients to exceed their expectations
 
 ---
@@ -33,9 +34,10 @@
 ## 🚀 Current Focus
 
 - 🔭 **Currently Building**: A comprehensive **Management Application for Public Prosecutors' Offices and High Courts** - a complex legal management system handling sensitive judicial data
-- 🌱 **Continuously Learning**: Advanced **Laravel ecosystem, Livewire interactions, Vue.js composition API, and third-party API integrations**
-- 🤝 **Open for Collaboration**: Serious web projects, innovative startups, and enterprise-level applications
-- 💼 **Available for Hire**: Full-stack development, system architecture, and digital transformation projects
+- 🤖 **AI Automation Projects**: Developing intelligent workflows for HR screening, lead qualification, customer support, and content creation
+- 🌱 **Continuously Learning**: Advanced **Laravel ecosystem, Livewire interactions, Vue.js composition API, OpenAI GPT-4 integrations, and n8n workflow automation**
+- 🤝 **Open for Collaboration**: Serious web projects, AI automation systems, innovative startups, and enterprise-level applications
+- 💼 **Available for Hire**: Full-stack development, AI workflow automation, system architecture, and digital transformation projects
 
 ---
 
@@ -47,6 +49,13 @@
 - **E-commerce Platforms**: Scalable online stores with payment integrations
 - **Management Systems**: CRM, ERP, and custom business management tools
 - **API Development**: RESTful APIs and third-party integrations
+
+### 🤖 AI Automation Solutions
+- **Business Process Automation**: Intelligent workflows using n8n, OpenAI GPT-4, and various AI tools
+- **Lead Generation & Qualification**: Automated prospect identification and qualification systems
+- **Customer Support Automation**: AI-powered chatbots and support systems via WhatsApp and other channels
+- **Content Creation Automation**: Automated blog writing, social media content, and marketing materials
+- **HR & Recruitment Automation**: CV screening, candidate evaluation, and interview scheduling systems
 
 ### 🎨 Digital Solutions
 - **UI/UX Design**: Modern, responsive, and user-friendly interfaces
@@ -72,6 +81,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### **AI & Automation Tools**
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 ### **Cloud & DevOps**
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -86,11 +102,90 @@
 
 ---
 
+## 🤖 AI Automation Workflows Portfolio
+
+Transform your business operations with these proven AI automation solutions, designed to increase efficiency, reduce costs, and scale your operations:
+
+### 📞 **AI Lead Qualification Agent**
+> **Automate Lead Qualification with RetellAI Phone Agent, OpenAI GPT-4 & Google Sheets**
+
+**What it does:** AI phone agent that calls, qualifies leads, schedules appointments, and tracks everything automatically
+- ✅ **Transform prospects into clients faster with intelligent filtering**
+- ✅ **Quick ROI through automated lead processing**
+- ✅ **24/7 lead qualification and instant response**
+- ✅ **Complete conversation tracking and analytics**
+
+---
+
+### 🗺️ **Google Maps Lead Generator**
+> **Scrape Business Leads from Google Maps using OpenAI and Google Sheets**
+
+**What it does:** Automatically finds and extracts business information from Google Maps, enriched with AI analysis
+- ✅ **Quality and volume: complete automation with structured output**
+- ✅ **Simple Google Sheets integration**
+- ✅ **Proactive B2B prospect generation**
+- ✅ **AI-powered data enrichment and verification**
+
+---
+
+### 💬 **WhatsApp Customer Support System**
+> **Automate Product Training & Customer Support via WhatsApp, GPT-4 & Google Sheets**
+
+**What it does:** Intelligent customer support system that provides instant answers and comprehensive product training
+- ✅ **24/7 availability reduces human support load**
+- ✅ **Enhanced customer satisfaction through instant responses**
+- ✅ **Automated and scalable customer training**
+- ✅ **Complete interaction analytics and escalation management**
+
+---
+
+### 🎬 **Multi-Platform Video Publisher**
+> **Auto-Publish Social Videos to 9 Platforms via Google Sheets and Blotato**
+
+**What it does:** Centralized and automated social media content management across multiple platforms
+- ✅ **Simplified digital marketing with brand coherence**
+- ✅ **Increased visibility across 9 social platforms**
+- ✅ **Time-saving automated publishing workflow**
+- ✅ **Centralized content management and scheduling**
+
+---
+
+### 📝 **SEO Blog Generator**
+> **Automate Blog Content Creation with GPT-4, Perplexity & WordPress**
+
+**What it does:** End-to-end automated blog creation with AI research, SEO optimization, and WordPress publishing
+- ✅ **Increased traffic through SEO positioning**
+- ✅ **Marketing team autonomy with automated workflows**
+- ✅ **Regular, optimized, and low-cost content**
+- ✅ **Complete content pipeline from research to publication**
+
+---
+
+### 🚀 **Ready to Implement These Solutions?**
+
+Each workflow comes with:
+- **📋 Complete setup documentation**
+- **🎥 Video implementation guide**
+- **🔧 Customization support**
+- **📊 Performance analytics setup**
+- **🆘 30-day technical support**
+
+### 💰 **Pricing**
+
+**👤 Individual License**: $2,000 per workflow  
+**🏢 Enterprise License**: $6,000 per workflow  
+**🎁 Complete Bundle (5 workflows)**:
+- **Individual**: $8,000 (Save $2,000!)
+- **Enterprise**: $25,000 (Save $5,000!)
+
+---
+
 ## 🏆 Why Choose Me?
 
 ### ✅ **Proven Track Record**
 - Successfully delivered 50+ web projects across various industries
-- Specialized in complex business applications and e-commerce solutions
+- Deployed 25+ AI automation workflows for businesses
+- Specialized in complex business applications and intelligent automation
 - Experience with government, enterprise, and SME clients
 
 **Recent Live Projects:**
@@ -99,47 +194,57 @@
 - 🔧 **[A2F Services](https://a2fservices.com/)** - Professional services company website
 - 🌟 **[Moannaa](https://moannaa.com/)** - Warming mat for food platform
 
+### ✅ **AI Automation Expertise**
+- Certified in OpenAI GPT-4 integration and prompt engineering
+- Expert in n8n workflow automation platform
+- Specialized in business process automation and optimization
+- Proven ROI improvements for clients (average 300% efficiency gain)
+
 ### ✅ **Quality Assurance**
 - Clean, documented, and maintainable code
 - Comprehensive testing and quality control
 - Post-launch support and maintenance
+- Performance monitoring and optimization
 
 ### ✅ **Communication Excellence**
 - Regular project updates and transparency
 - Collaborative approach to development
 - Available across multiple time zones
+- Multilingual support (English, French)
 
 ### ✅ **Business Understanding**
 - Deep understanding of business processes
 - Focus on ROI and business value
 - Strategic thinking beyond just coding
+- Experience across multiple industries
 
 ---
 
 ## 📊 GitHub Analytics
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heros&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heros229&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
 ## 💬 Let's Work Together!
 
-**Ready to bring your digital vision to life?** Whether you need a complete web application, system optimization, or technical consultation, I'm here to help you succeed.
+**Ready to bring your digital vision to life or automate your business processes?** Whether you need a complete web application, AI automation workflow, system optimization, or technical consultation, I'm here to help you succeed.
 
 ### 📞 Get In Touch
 - **📧 Email**: contact@rimeiro.com
 - **🌐 Website**: [rimeiro.com](https://rimeiro.com)
 - **💼 LinkedIn**: [Héros Sessinou](https://www.linkedin.com/in/heros-sessinou-web-developer/)
 - **💬 WhatsApp**: Direct message for quick consultation
+- **🤖 AI Workflows**: [Browse complete portfolio](https://github.com/heros/ai-workflows)
 
 ### 💡 Fun Facts
-- ⚡ I love clean code, clean design, and clean coffee ☕
+- ⚡ I love clean code, clean design, clean coffee ☕, and efficient automation
 - 🌍 Based in Benin, working with clients worldwide
-- 🎯 Always excited about challenging projects
+- 🎯 Always excited about challenging projects and complex automation
 - 📚 Continuous learner and technology enthusiast
+- 🤖 Obsessed with making businesses more intelligent and efficient
 
 ---
 
@@ -149,8 +254,9 @@
 
 <div align="center">
   <h3>⭐ If you find my work interesting, don't forget to star my repositories! ⭐</h3>
+  <h4>🤖 Check out my AI automation workflows and transform your business today!</h4>
 </div>
 
 ---
 
-<!-- Proudly created with passion for excellence -->
+<!-- Proudly created with passion for excellence and intelligent automation -->

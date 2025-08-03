@@ -168,15 +168,7 @@ Each workflow comes with:
 - **🎥 Video implementation guide**
 - **🔧 Customization support**
 - **📊 Performance analytics setup**
-- **🆘 30-day technical support**
 
-### 💰 **Pricing**
-
-**👤 Individual License**: $2,000 per workflow  
-**🏢 Enterprise License**: $6,000 per workflow  
-**🎁 Complete Bundle (5 workflows)**:
-- **Individual**: $8,000 (Save $2,000!)
-- **Enterprise**: $25,000 (Save $5,000!)
 
 ---
 
